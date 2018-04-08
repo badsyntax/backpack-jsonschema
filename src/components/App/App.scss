@@ -1,0 +1,17 @@
+@import '~bpk-mixins';
+
+.App {
+  text-align: left;
+
+  &__main {
+  }
+
+  &__heading {
+    margin-bottom: $bpk-spacing-sm;
+  }
+
+  &__text {
+    margin-bottom: $bpk-spacing-sm;
+  }
+}
+
